@@ -5,11 +5,11 @@ draft: false
 weight: 60
 ---
 
-Use the Datastore Performance dashboard to view performance problems related to storage such as high latency, high outstanding IO, and low utilization. This dashboard is designed for both VMware administrator and Storage administrator, with the goal of fostering closer collaboration between the 2 team.
+Use the Datastore Performance dashboard to view performance problems related to storage such as high latency, high outstanding IO, and low utilization. This dashboard is designed for both VMware administrator and Storage administrator, with the goal of fostering closer collaboration between the two teams.
 
 See the [Performance Dashboard](/dashboards/chapter-2-performance-dashboards/) page for common design consideration among all the dashboards for performance management.
 
-This dashboard combines contention and utilization metrics in 1 dashboard, but still visually separate them for ease of use.
+This dashboard combines contention and utilization metrics in one dashboard, but still visually separate them for ease of use.
 
 Local datastores are treated separately, as they have their own use case.
 
